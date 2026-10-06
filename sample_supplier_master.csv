@@ -1,0 +1,595 @@
+SKU,Supplier_ID,Supplier,On_Time_%,Quality_%,Lead_Time_Days,Quoted_Price,Procurement_Category,UOM
+OC-001,S001,CoolCore Components,97.0,97.0,5,2328.71,Refrigerator Category,piece
+OC-001,S002,FrostLine Industries,98.0,97.0,5,2160.97,Refrigerator Category,piece
+OC-001,S003,ArcticParts India,87.0,93.0,11,2136.38,Refrigerator Category,piece
+OC-002,S004,CoolCore Components,95.0,98.0,4,3700.0,Refrigerator Category,piece
+OC-002,S005,FrostLine Industries,93.0,94.0,7,3527.93,Refrigerator Category,piece
+OC-002,S006,ArcticParts India,91.0,92.0,11,3462.63,Refrigerator Category,piece
+DA-001,S007,ThermoTech Systems,93.0,98.0,4,1852.87,Refrigerator Category,piece
+DA-001,S008,Prime Appliance Parts,91.0,99.0,7,1798.68,Refrigerator Category,piece
+DA-001,S009,Bharat Cooling Components,87.0,91.0,11,1711.94,Refrigerator Category,piece
+DA-002,S010,ThermoTech Systems,98.0,97.0,6,3091.74,Refrigerator Category,piece
+DA-002,S011,Prime Appliance Parts,96.0,95.0,9,2958.69,Refrigerator Category,piece
+DA-002,S012,Bharat Cooling Components,91.0,90.0,12,2884.84,Refrigerator Category,piece
+IL-001,S013,PolarTech Manufacturing,93.0,99.0,5,883.62,Refrigerator Category,piece
+IL-001,S014,Metro Appliance Components,94.0,92.0,9,831.52,Refrigerator Category,piece
+IL-001,S015,ChillPro Industries,87.0,89.0,13,800.0,Refrigerator Category,piece
+IL-002,S016,PolarTech Manufacturing,98.0,98.0,7,1322.0,Refrigerator Category,piece
+IL-002,S017,Metro Appliance Components,91.0,97.0,7,1235.08,Refrigerator Category,piece
+IL-002,S018,ChillPro Industries,88.0,94.0,12,1208.86,Refrigerator Category,piece
+IN-001,S019,Nova Refrigeration Parts,98.0,99.0,6,535.51,Refrigerator Category,kg
+IN-001,S020,CoolCore Components,93.0,98.0,8,526.63,Refrigerator Category,kg
+IN-001,S021,FrostLine Industries,84.0,92.0,12,495.7,Refrigerator Category,kg
+IN-002,S022,Nova Refrigeration Parts,92.0,99.0,5,779.06,Refrigerator Category,kg
+IN-002,S023,CoolCore Components,95.0,96.0,8,751.79,Refrigerator Category,kg
+IN-002,S024,FrostLine Industries,87.0,94.0,12,722.15,Refrigerator Category,kg
+DG-001,S025,ArcticParts India,92.0,99.0,6,177.83,Refrigerator Category,piece
+DG-001,S026,ThermoTech Systems,96.0,96.0,8,168.17,Refrigerator Category,piece
+DG-001,S027,Prime Appliance Parts,88.0,94.0,12,161.11,Refrigerator Category,piece
+DG-002,S028,ArcticParts India,98.0,99.0,4,285.54,Refrigerator Category,piece
+DG-002,S029,ThermoTech Systems,92.0,97.0,9,278.2,Refrigerator Category,piece
+DG-002,S030,Prime Appliance Parts,90.0,90.0,12,271.37,Refrigerator Category,piece
+HM-001,S031,Bharat Cooling Components,93.0,98.0,5,125.93,Refrigerator Category,set
+HM-001,S032,PolarTech Manufacturing,92.0,97.0,9,119.41,Refrigerator Category,set
+HM-001,S033,Metro Appliance Components,88.0,91.0,11,115.19,Refrigerator Category,set
+HM-002,S034,Bharat Cooling Components,95.0,99.0,5,191.0,Refrigerator Category,set
+HM-002,S035,PolarTech Manufacturing,89.0,95.0,7,189.32,Refrigerator Category,set
+HM-002,S036,Metro Appliance Components,90.0,89.0,10,179.01,Refrigerator Category,set
+HD-001,S037,ChillPro Industries,99.0,98.0,6,146.3,Refrigerator Category,piece
+HD-001,S038,Nova Refrigeration Parts,95.0,94.0,9,139.95,Refrigerator Category,piece
+HD-001,S039,CoolCore Components,89.0,90.0,10,133.41,Refrigerator Category,piece
+HD-002,S040,ChillPro Industries,99.0,96.0,5,270.11,Refrigerator Category,piece
+HD-002,S041,Nova Refrigeration Parts,94.0,93.0,7,260.92,Refrigerator Category,piece
+HD-002,S042,CoolCore Components,89.0,91.0,11,248.65,Refrigerator Category,piece
+LL-001,S043,FrostLine Industries,98.0,95.0,4,91.16,Refrigerator Category,set
+LL-001,S044,ArcticParts India,94.0,96.0,9,89.5,Refrigerator Category,set
+LL-001,S045,ThermoTech Systems,94.0,90.0,11,85.17,Refrigerator Category,set
+LL-002,S046,FrostLine Industries,99.0,98.0,4,158.31,Refrigerator Category,set
+LL-002,S047,ArcticParts India,93.0,96.0,7,146.77,Refrigerator Category,set
+LL-002,S048,ThermoTech Systems,88.0,89.0,13,140.93,Refrigerator Category,set
+CP-001,S049,Prime Appliance Parts,99.0,99.0,4,4418.61,Refrigerator Category,piece
+CP-001,S050,Bharat Cooling Components,95.0,96.0,6,4114.61,Refrigerator Category,piece
+CP-001,S051,PolarTech Manufacturing,88.0,92.0,13,3992.69,Refrigerator Category,piece
+CP-002,S052,Prime Appliance Parts,99.0,99.0,4,5427.62,Refrigerator Category,piece
+CP-002,S053,Bharat Cooling Components,93.0,96.0,9,5025.02,Refrigerator Category,piece
+CP-002,S054,PolarTech Manufacturing,88.0,91.0,12,4956.72,Refrigerator Category,piece
+CC-001,S055,Metro Appliance Components,99.0,97.0,5,316.61,Refrigerator Category,set
+CC-001,S056,ChillPro Industries,94.0,96.0,7,300.95,Refrigerator Category,set
+CC-001,S057,Nova Refrigeration Parts,86.0,90.0,11,282.38,Refrigerator Category,set
+CC-002,S058,Metro Appliance Components,94.0,98.0,6,869.15,Refrigerator Category,set
+CC-002,S059,ChillPro Industries,94.0,94.0,7,842.7,Refrigerator Category,set
+CC-002,S060,Nova Refrigeration Parts,89.0,94.0,11,828.39,Refrigerator Category,set
+EV-001,S061,CoolCore Components,98.0,99.0,7,654.57,Refrigerator Category,piece
+EV-001,S062,FrostLine Industries,96.0,93.0,7,656.77,Refrigerator Category,piece
+EV-001,S063,ArcticParts India,82.0,92.0,11,618.38,Refrigerator Category,piece
+EV-002,S064,CoolCore Components,99.0,98.0,4,1151.7,Refrigerator Category,piece
+EV-002,S065,FrostLine Industries,91.0,96.0,7,1065.79,Refrigerator Category,piece
+EV-002,S066,ArcticParts India,89.0,91.0,11,1030.55,Refrigerator Category,piece
+CT-001,S067,ThermoTech Systems,97.0,95.0,5,532.86,Refrigerator Category,kg
+CT-001,S068,Prime Appliance Parts,94.0,94.0,6,521.71,Refrigerator Category,kg
+CT-001,S069,Bharat Cooling Components,86.0,91.0,13,500.0,Refrigerator Category,kg
+CT-002,S070,ThermoTech Systems,99.0,97.0,7,716.94,Refrigerator Category,kg
+CT-002,S071,Prime Appliance Parts,96.0,95.0,9,681.15,Refrigerator Category,kg
+CT-002,S072,Bharat Cooling Components,89.0,90.0,12,665.51,Refrigerator Category,kg
+FD-001,S073,PolarTech Manufacturing,99.0,98.0,7,58.02,Refrigerator Category,piece
+FD-001,S074,Metro Appliance Components,97.0,93.0,8,55.2,Refrigerator Category,piece
+FD-001,S075,ChillPro Industries,89.0,92.0,12,52.14,Refrigerator Category,piece
+FD-002,S076,PolarTech Manufacturing,98.0,97.0,6,87.3,Refrigerator Category,piece
+FD-002,S077,Metro Appliance Components,93.0,93.0,9,83.39,Refrigerator Category,piece
+FD-002,S078,ChillPro Industries,89.0,88.0,11,80.33,Refrigerator Category,piece
+RF-001,S079,Nova Refrigeration Parts,96.0,95.0,6,443.54,Refrigerator Category,kg
+RF-001,S080,CoolCore Components,92.0,96.0,9,415.41,Refrigerator Category,kg
+RF-001,S081,FrostLine Industries,89.0,91.0,12,408.59,Refrigerator Category,kg
+RF-002,S082,Nova Refrigeration Parts,95.0,95.0,5,529.02,Refrigerator Category,kg
+RF-002,S083,CoolCore Components,92.0,93.0,9,516.05,Refrigerator Category,kg
+RF-002,S084,FrostLine Industries,84.0,95.0,11,500.35,Refrigerator Category,kg
+CU-001,S085,ArcticParts India,96.0,96.0,4,870.3,Refrigerator Category,kg
+CU-001,S086,ThermoTech Systems,94.0,98.0,9,820.61,Refrigerator Category,kg
+CU-001,S087,Prime Appliance Parts,87.0,90.0,12,829.74,Refrigerator Category,kg
+CU-002,S088,ArcticParts India,95.0,97.0,5,1000.0,Refrigerator Category,kg
+CU-002,S089,ThermoTech Systems,96.0,95.0,10,962.25,Refrigerator Category,kg
+CU-002,S090,Prime Appliance Parts,87.0,90.0,11,931.47,Refrigerator Category,kg
+PCB-001,S091,Bharat Cooling Components,96.0,97.0,5,1889.46,Refrigerator Category,piece
+PCB-001,S092,PolarTech Manufacturing,93.0,98.0,8,1769.42,Refrigerator Category,piece
+PCB-001,S093,Metro Appliance Components,89.0,93.0,11,1716.17,Refrigerator Category,piece
+PCB-002,S094,Bharat Cooling Components,99.0,98.0,5,2963.61,Refrigerator Category,piece
+PCB-002,S095,PolarTech Manufacturing,97.0,96.0,8,2780.24,Refrigerator Category,piece
+PCB-002,S096,Metro Appliance Components,87.0,91.0,12,2656.48,Refrigerator Category,piece
+TS-001,S097,ChillPro Industries,96.0,99.0,5,89.83,Refrigerator Category,piece
+TS-001,S098,Nova Refrigeration Parts,92.0,97.0,10,82.67,Refrigerator Category,piece
+TS-001,S099,CoolCore Components,84.0,91.0,11,79.83,Refrigerator Category,piece
+TS-002,S100,ChillPro Industries,97.0,97.0,4,136.26,Refrigerator Category,piece
+TS-002,S101,Nova Refrigeration Parts,94.0,97.0,10,127.39,Refrigerator Category,piece
+TS-002,S102,CoolCore Components,88.0,91.0,11,120.86,Refrigerator Category,piece
+WH-001,S103,FrostLine Industries,99.0,99.0,6,226.93,Refrigerator Category,set
+WH-001,S104,ArcticParts India,93.0,99.0,7,212.21,Refrigerator Category,set
+WH-001,S105,ThermoTech Systems,91.0,88.0,11,211.07,Refrigerator Category,set
+WH-002,S106,FrostLine Industries,99.0,98.0,6,375.33,Refrigerator Category,set
+WH-002,S107,ArcticParts India,99.0,99.0,7,358.56,Refrigerator Category,set
+WH-002,S108,ThermoTech Systems,87.0,93.0,11,345.23,Refrigerator Category,set
+EF-001,S109,Prime Appliance Parts,95.0,98.0,5,528.95,Refrigerator Category,set
+EF-001,S110,Bharat Cooling Components,93.0,99.0,8,486.1,Refrigerator Category,set
+EF-001,S111,PolarTech Manufacturing,86.0,91.0,14,476.64,Refrigerator Category,set
+EF-002,S112,Prime Appliance Parts,97.0,98.0,4,782.42,Refrigerator Category,set
+EF-002,S113,Bharat Cooling Components,93.0,96.0,9,754.68,Refrigerator Category,set
+EF-002,S114,PolarTech Manufacturing,89.0,94.0,11,708.94,Refrigerator Category,set
+CF-001,S115,Metro Appliance Components,93.0,99.0,4,684.97,Refrigerator Category,set
+CF-001,S116,ChillPro Industries,95.0,97.0,8,647.33,Refrigerator Category,set
+CF-001,S117,Nova Refrigeration Parts,89.0,93.0,11,619.33,Refrigerator Category,set
+CF-002,S118,Metro Appliance Components,95.0,95.0,4,1039.92,Refrigerator Category,set
+CF-002,S119,ChillPro Industries,91.0,99.0,7,986.41,Refrigerator Category,set
+CF-002,S120,Nova Refrigeration Parts,85.0,91.0,14,953.09,Refrigerator Category,set
+SR-001,S121,CoolCore Components,98.0,98.0,3,34.36,Refrigerator Category,piece
+SR-001,S122,FrostLine Industries,90.0,95.0,8,31.88,Refrigerator Category,piece
+SR-001,S123,ArcticParts India,89.0,91.0,13,31.25,Refrigerator Category,piece
+SR-002,S124,CoolCore Components,94.0,99.0,5,49.43,Refrigerator Category,piece
+SR-002,S125,FrostLine Industries,94.0,95.0,9,47.42,Refrigerator Category,piece
+SR-002,S126,ArcticParts India,87.0,91.0,14,44.62,Refrigerator Category,piece
+OP-001,S127,ThermoTech Systems,94.0,94.0,3,39.51,Refrigerator Category,piece
+OP-001,S128,Prime Appliance Parts,95.0,97.0,9,37.89,Refrigerator Category,piece
+OP-001,S129,Bharat Cooling Components,87.0,91.0,10,37.12,Refrigerator Category,piece
+OP-002,S130,ThermoTech Systems,94.0,99.0,4,57.31,Refrigerator Category,piece
+OP-002,S131,Prime Appliance Parts,94.0,93.0,7,54.94,Refrigerator Category,piece
+OP-002,S132,Bharat Cooling Components,91.0,90.0,11,52.21,Refrigerator Category,piece
+PC-001,S133,PolarTech Manufacturing,98.0,99.0,3,77.69,Refrigerator Category,piece
+PC-001,S134,Metro Appliance Components,91.0,93.0,9,75.53,Refrigerator Category,piece
+PC-001,S135,ChillPro Industries,86.0,91.0,12,71.01,Refrigerator Category,piece
+PC-002,S136,PolarTech Manufacturing,98.0,97.0,4,107.79,Refrigerator Category,piece
+PC-002,S137,Metro Appliance Components,94.0,97.0,9,103.71,Refrigerator Category,piece
+PC-002,S138,ChillPro Industries,86.0,94.0,13,100.38,Refrigerator Category,piece
+DH-001,S139,Nova Refrigeration Parts,98.0,99.0,6,337.12,Refrigerator Category,piece
+DH-001,S140,CoolCore Components,93.0,94.0,8,319.82,Refrigerator Category,piece
+DH-001,S141,FrostLine Industries,90.0,91.0,11,306.37,Refrigerator Category,piece
+DH-002,S142,Nova Refrigeration Parts,96.0,96.0,4,519.51,Refrigerator Category,piece
+DH-002,S143,CoolCore Components,93.0,95.0,8,488.77,Refrigerator Category,piece
+DH-002,S144,FrostLine Industries,87.0,94.0,10,479.63,Refrigerator Category,piece
+DT-001,S145,ArcticParts India,99.0,96.0,6,98.98,Refrigerator Category,piece
+DT-001,S146,ThermoTech Systems,90.0,94.0,8,93.67,Refrigerator Category,piece
+DT-001,S147,Prime Appliance Parts,90.0,96.0,12,88.98,Refrigerator Category,piece
+DT-002,S148,ArcticParts India,99.0,99.0,6,151.89,Refrigerator Category,piece
+DT-002,S149,ThermoTech Systems,97.0,95.0,7,144.86,Refrigerator Category,piece
+DT-002,S150,Prime Appliance Parts,87.0,91.0,13,139.76,Refrigerator Category,piece
+TM-001,S151,Bharat Cooling Components,99.0,98.0,3,162.79,Refrigerator Category,piece
+TM-001,S152,PolarTech Manufacturing,91.0,98.0,6,159.03,Refrigerator Category,piece
+TM-001,S153,Metro Appliance Components,85.0,91.0,11,153.2,Refrigerator Category,piece
+TM-002,S154,Bharat Cooling Components,96.0,96.0,5,298.44,Refrigerator Category,piece
+TM-002,S155,PolarTech Manufacturing,95.0,97.0,10,282.39,Refrigerator Category,piece
+TM-002,S156,Metro Appliance Components,88.0,88.0,11,267.65,Refrigerator Category,piece
+LED-001,S157,ChillPro Industries,95.0,97.0,4,46.76,Refrigerator Category,piece
+LED-001,S158,Nova Refrigeration Parts,96.0,96.0,7,44.91,Refrigerator Category,piece
+LED-001,S159,CoolCore Components,88.0,92.0,12,43.12,Refrigerator Category,piece
+LED-002,S160,ChillPro Industries,97.0,98.0,6,82.43,Refrigerator Category,piece
+LED-002,S161,Nova Refrigeration Parts,92.0,98.0,9,79.8,Refrigerator Category,piece
+LED-002,S162,CoolCore Components,87.0,90.0,12,75.32,Refrigerator Category,piece
+DS-001,S163,FrostLine Industries,98.0,99.0,6,28.78,Refrigerator Category,piece
+DS-001,S164,ArcticParts India,94.0,95.0,7,27.38,Refrigerator Category,piece
+DS-001,S165,ThermoTech Systems,83.0,89.0,11,26.41,Refrigerator Category,piece
+DS-002,S166,FrostLine Industries,99.0,98.0,5,46.46,Refrigerator Category,piece
+DS-002,S167,ArcticParts India,89.0,97.0,8,45.26,Refrigerator Category,piece
+DS-002,S168,ThermoTech Systems,88.0,95.0,11,42.34,Refrigerator Category,piece
+WV-001,S169,Prime Appliance Parts,94.0,97.0,3,252.88,Refrigerator Category,piece
+WV-001,S170,Bharat Cooling Components,93.0,96.0,9,238.62,Refrigerator Category,piece
+WV-001,S171,PolarTech Manufacturing,88.0,95.0,12,230.22,Refrigerator Category,piece
+WV-002,S172,Prime Appliance Parts,98.0,99.0,4,442.95,Refrigerator Category,piece
+WV-002,S173,Bharat Cooling Components,96.0,97.0,8,414.21,Refrigerator Category,piece
+WV-002,S174,PolarTech Manufacturing,91.0,91.0,12,402.34,Refrigerator Category,piece
+SH-001,S175,Metro Appliance Components,97.0,99.0,5,368.58,Refrigerator Category,piece
+SH-001,S176,ChillPro Industries,90.0,97.0,10,340.73,Refrigerator Category,piece
+SH-001,S177,Nova Refrigeration Parts,91.0,93.0,10,325.13,Refrigerator Category,piece
+SH-002,S178,Metro Appliance Components,99.0,99.0,5,537.13,Refrigerator Category,piece
+SH-002,S179,ChillPro Industries,95.0,96.0,9,515.98,Refrigerator Category,piece
+SH-002,S180,Nova Refrigeration Parts,86.0,92.0,13,501.1,Refrigerator Category,piece
+CD-001,S181,CoolCore Components,99.0,99.0,6,311.69,Refrigerator Category,piece
+CD-001,S182,FrostLine Industries,95.0,96.0,7,290.31,Refrigerator Category,piece
+CD-001,S183,ArcticParts India,86.0,92.0,12,284.64,Refrigerator Category,piece
+CD-002,S184,CoolCore Components,96.0,98.0,6,497.83,Refrigerator Category,piece
+CD-002,S185,FrostLine Industries,93.0,95.0,8,474.79,Refrigerator Category,piece
+CD-002,S186,ArcticParts India,89.0,91.0,11,451.17,Refrigerator Category,piece
+DB-001,S187,ThermoTech Systems,99.0,99.0,5,191.57,Refrigerator Category,piece
+DB-001,S188,Prime Appliance Parts,90.0,94.0,7,182.31,Refrigerator Category,piece
+DB-001,S189,Bharat Cooling Components,88.0,88.0,12,170.24,Refrigerator Category,piece
+DB-002,S190,ThermoTech Systems,99.0,97.0,6,302.81,Refrigerator Category,piece
+DB-002,S191,Prime Appliance Parts,93.0,95.0,7,300.02,Refrigerator Category,piece
+DB-002,S192,Bharat Cooling Components,91.0,94.0,13,287.95,Refrigerator Category,piece
+ST-001,S193,PolarTech Manufacturing,99.0,96.0,5,57.26,Refrigerator Category,pair
+ST-001,S194,Metro Appliance Components,92.0,96.0,11,54.75,Refrigerator Category,pair
+ST-001,S195,ChillPro Industries,88.0,90.0,13,52.03,Refrigerator Category,pair
+ST-002,S196,PolarTech Manufacturing,97.0,99.0,5,92.73,Refrigerator Category,pair
+ST-002,S197,Metro Appliance Components,92.0,98.0,9,91.19,Refrigerator Category,pair
+ST-002,S198,ChillPro Industries,87.0,93.0,9,86.65,Refrigerator Category,pair
+AC-CP-01,A0111,ThermoCool India,91.0,93.0,7,5177.19,Air-Conditioning Category,piece
+AC-CP-01,A0112,AeroParts Solutions,97.0,90.0,6,5458.21,Air-Conditioning Category,piece
+AC-CP-01,A0113,ClimaCore Systems,91.0,95.0,4,5839.59,Air-Conditioning Category,piece
+AC-CP-02,A0121,ClimaCore Systems,88.0,97.0,5,5275.06,Air-Conditioning Category,piece
+AC-CP-02,A0122,BreezeTech Components,92.0,96.0,9,5386.26,Air-Conditioning Category,piece
+AC-CP-02,A0123,ArcticAir Industrial,92.0,91.0,5,5714.24,Air-Conditioning Category,piece
+AC-CC-01,A0211,AeroParts Solutions,93.0,92.0,6,1224.29,Air-Conditioning Category,piece
+AC-CC-01,A0212,ClimaCore Systems,91.0,91.0,9,1272.11,Air-Conditioning Category,piece
+AC-CC-01,A0213,BreezeTech Components,90.0,91.0,8,1373.06,Air-Conditioning Category,piece
+AC-CC-02,A0221,BreezeTech Components,93.0,93.0,10,1242.68,Air-Conditioning Category,piece
+AC-CC-02,A0222,ArcticAir Industrial,98.0,97.0,6,1325.85,Air-Conditioning Category,piece
+AC-CC-02,A0223,ThermoCool India,91.0,98.0,10,1379.66,Air-Conditioning Category,piece
+AC-EV-01,A0311,ClimaCore Systems,88.0,94.0,5,1110.19,Air-Conditioning Category,piece
+AC-EV-01,A0312,BreezeTech Components,92.0,93.0,6,1196.4,Air-Conditioning Category,piece
+AC-EV-01,A0313,ArcticAir Industrial,95.0,96.0,6,1204.14,Air-Conditioning Category,piece
+AC-EV-02,A0321,ArcticAir Industrial,97.0,97.0,8,1089.74,Air-Conditioning Category,piece
+AC-EV-02,A0322,ThermoCool India,93.0,95.0,8,1181.67,Air-Conditioning Category,piece
+AC-EV-02,A0323,AeroParts Solutions,90.0,93.0,7,1189.9,Air-Conditioning Category,piece
+AC-EX-01,A0411,BreezeTech Components,93.0,97.0,6,626.27,Air-Conditioning Category,piece
+AC-EX-01,A0412,ArcticAir Industrial,98.0,95.0,5,661.92,Air-Conditioning Category,piece
+AC-EX-01,A0413,ThermoCool India,93.0,95.0,9,690.02,Air-Conditioning Category,piece
+AC-EX-02,A0421,ThermoCool India,98.0,97.0,6,619.64,Air-Conditioning Category,piece
+AC-EX-02,A0422,AeroParts Solutions,97.0,97.0,4,656.99,Air-Conditioning Category,piece
+AC-EX-02,A0423,ClimaCore Systems,98.0,93.0,9,705.44,Air-Conditioning Category,piece
+AC-CT-01,A0511,ArcticAir Industrial,94.0,97.0,10,772.14,Air-Conditioning Category,kg
+AC-CT-01,A0512,ThermoCool India,94.0,94.0,6,811.67,Air-Conditioning Category,kg
+AC-CT-01,A0513,AeroParts Solutions,98.0,96.0,6,877.15,Air-Conditioning Category,kg
+AC-CT-02,A0521,AeroParts Solutions,94.0,93.0,4,778.9,Air-Conditioning Category,kg
+AC-CT-02,A0522,ClimaCore Systems,95.0,90.0,10,842.91,Air-Conditioning Category,kg
+AC-CT-02,A0523,BreezeTech Components,98.0,91.0,4,871.66,Air-Conditioning Category,kg
+AC-FD-01,A0611,ThermoCool India,95.0,95.0,5,96.44,Air-Conditioning Category,piece
+AC-FD-01,A0612,AeroParts Solutions,97.0,91.0,4,100.25,Air-Conditioning Category,piece
+AC-FD-01,A0613,ClimaCore Systems,89.0,90.0,8,107.67,Air-Conditioning Category,piece
+AC-FD-02,A0621,ClimaCore Systems,93.0,97.0,7,91.92,Air-Conditioning Category,piece
+AC-FD-02,A0622,BreezeTech Components,90.0,98.0,8,99.93,Air-Conditioning Category,piece
+AC-FD-02,A0623,ArcticAir Industrial,88.0,90.0,5,106.52,Air-Conditioning Category,piece
+AC-RF-01,A0711,AeroParts Solutions,95.0,94.0,5,641.37,Air-Conditioning Category,kg
+AC-RF-01,A0712,ClimaCore Systems,93.0,90.0,8,661.53,Air-Conditioning Category,kg
+AC-RF-01,A0713,BreezeTech Components,92.0,92.0,4,706.51,Air-Conditioning Category,kg
+AC-RF-02,A0721,BreezeTech Components,95.0,97.0,4,608.6,Air-Conditioning Category,kg
+AC-RF-02,A0722,ArcticAir Industrial,93.0,96.0,5,691.74,Air-Conditioning Category,kg
+AC-RF-02,A0723,ThermoCool India,88.0,93.0,8,664.19,Air-Conditioning Category,kg
+AC-FM-01,A0811,ClimaCore Systems,88.0,93.0,9,1271.25,Air-Conditioning Category,piece
+AC-FM-01,A0812,BreezeTech Components,97.0,92.0,9,1301.83,Air-Conditioning Category,piece
+AC-FM-01,A0813,ArcticAir Industrial,93.0,92.0,7,1364.26,Air-Conditioning Category,piece
+AC-FM-02,A0821,ArcticAir Industrial,90.0,90.0,10,1212.71,Air-Conditioning Category,piece
+AC-FM-02,A0822,ThermoCool India,89.0,97.0,6,1303.47,Air-Conditioning Category,piece
+AC-FM-02,A0823,AeroParts Solutions,97.0,96.0,10,1394.84,Air-Conditioning Category,piece
+AC-EF-01,A0911,BreezeTech Components,90.0,96.0,10,1415.28,Air-Conditioning Category,piece
+AC-EF-01,A0912,ArcticAir Industrial,94.0,91.0,10,1536.02,Air-Conditioning Category,piece
+AC-EF-01,A0913,ThermoCool India,93.0,96.0,10,1593.97,Air-Conditioning Category,piece
+AC-EF-02,A0921,ThermoCool India,96.0,92.0,9,1460.11,Air-Conditioning Category,piece
+AC-EF-02,A0922,AeroParts Solutions,89.0,93.0,7,1509.29,Air-Conditioning Category,piece
+AC-EF-02,A0923,ClimaCore Systems,95.0,92.0,8,1610.45,Air-Conditioning Category,piece
+AC-BL-01,A1011,ArcticAir Industrial,97.0,98.0,8,410.38,Air-Conditioning Category,piece
+AC-BL-01,A1012,ThermoCool India,93.0,92.0,4,446.72,Air-Conditioning Category,piece
+AC-BL-01,A1013,AeroParts Solutions,93.0,97.0,8,463.63,Air-Conditioning Category,piece
+AC-BL-02,A1021,AeroParts Solutions,89.0,96.0,4,420.0,Air-Conditioning Category,piece
+AC-BL-02,A1022,ClimaCore Systems,93.0,92.0,9,438.11,Air-Conditioning Category,piece
+AC-BL-02,A1023,BreezeTech Components,88.0,94.0,4,458.22,Air-Conditioning Category,piece
+AC-PC-01,A1111,ThermoCool India,93.0,95.0,10,2127.93,Air-Conditioning Category,piece
+AC-PC-01,A1112,AeroParts Solutions,91.0,92.0,6,2224.97,Air-Conditioning Category,piece
+AC-PC-01,A1113,ClimaCore Systems,92.0,92.0,9,2296.88,Air-Conditioning Category,piece
+AC-PC-02,A1121,ClimaCore Systems,89.0,92.0,6,2040.92,Air-Conditioning Category,piece
+AC-PC-02,A1122,BreezeTech Components,90.0,97.0,5,2206.7,Air-Conditioning Category,piece
+AC-PC-02,A1123,ArcticAir Industrial,94.0,96.0,8,2311.09,Air-Conditioning Category,piece
+AC-DP-01,A1211,AeroParts Solutions,98.0,94.0,7,989.28,Air-Conditioning Category,piece
+AC-DP-01,A1212,ClimaCore Systems,95.0,90.0,10,1048.67,Air-Conditioning Category,piece
+AC-DP-01,A1213,BreezeTech Components,89.0,93.0,8,1092.01,Air-Conditioning Category,piece
+AC-DP-02,A1221,BreezeTech Components,93.0,96.0,4,962.69,Air-Conditioning Category,piece
+AC-DP-02,A1222,ArcticAir Industrial,96.0,97.0,8,1024.21,Air-Conditioning Category,piece
+AC-DP-02,A1223,ThermoCool India,88.0,98.0,5,1068.48,Air-Conditioning Category,piece
+AC-TS-01,A1311,ClimaCore Systems,88.0,96.0,7,147.88,Air-Conditioning Category,piece
+AC-TS-01,A1312,BreezeTech Components,98.0,94.0,7,156.08,Air-Conditioning Category,piece
+AC-TS-01,A1313,ArcticAir Industrial,95.0,91.0,4,161.99,Air-Conditioning Category,piece
+AC-TS-02,A1321,ArcticAir Industrial,98.0,91.0,5,147.29,Air-Conditioning Category,piece
+AC-TS-02,A1322,ThermoCool India,91.0,92.0,7,153.79,Air-Conditioning Category,piece
+AC-TS-02,A1323,AeroParts Solutions,96.0,95.0,8,162.56,Air-Conditioning Category,piece
+AC-PS-01,A1411,BreezeTech Components,88.0,93.0,7,369.59,Air-Conditioning Category,piece
+AC-PS-01,A1412,ArcticAir Industrial,96.0,91.0,9,418.82,Air-Conditioning Category,piece
+AC-PS-01,A1413,ThermoCool India,91.0,96.0,10,412.9,Air-Conditioning Category,piece
+AC-PS-02,A1421,ThermoCool India,94.0,90.0,9,371.82,Air-Conditioning Category,piece
+AC-PS-02,A1422,AeroParts Solutions,94.0,98.0,4,396.7,Air-Conditioning Category,piece
+AC-PS-02,A1423,ClimaCore Systems,93.0,96.0,8,428.59,Air-Conditioning Category,piece
+AC-CH-01,A1511,ArcticAir Industrial,95.0,94.0,7,314.2,Air-Conditioning Category,set
+AC-CH-01,A1512,ThermoCool India,97.0,94.0,10,328.47,Air-Conditioning Category,set
+AC-CH-01,A1513,AeroParts Solutions,88.0,95.0,4,348.7,Air-Conditioning Category,set
+AC-CH-02,A1521,AeroParts Solutions,89.0,91.0,6,308.58,Air-Conditioning Category,set
+AC-CH-02,A1522,ClimaCore Systems,88.0,97.0,8,318.96,Air-Conditioning Category,set
+AC-CH-02,A1523,BreezeTech Components,90.0,92.0,6,357.68,Air-Conditioning Category,set
+AC-CAP-01,A1611,ThermoCool India,91.0,97.0,9,168.97,Air-Conditioning Category,piece
+AC-CAP-01,A1612,AeroParts Solutions,94.0,96.0,10,173.5,Air-Conditioning Category,piece
+AC-CAP-01,A1613,ClimaCore Systems,92.0,94.0,5,181.4,Air-Conditioning Category,piece
+AC-CAP-02,A1621,ClimaCore Systems,88.0,92.0,9,165.31,Air-Conditioning Category,piece
+AC-CAP-02,A1622,BreezeTech Components,98.0,95.0,10,175.83,Air-Conditioning Category,piece
+AC-CAP-02,A1623,ArcticAir Industrial,98.0,97.0,8,183.48,Air-Conditioning Category,piece
+AC-WH-01,A1711,AeroParts Solutions,97.0,96.0,7,237.4,Air-Conditioning Category,set
+AC-WH-01,A1712,ClimaCore Systems,96.0,97.0,8,247.63,Air-Conditioning Category,set
+AC-WH-01,A1713,BreezeTech Components,88.0,98.0,7,268.74,Air-Conditioning Category,set
+AC-WH-02,A1721,BreezeTech Components,92.0,96.0,8,242.01,Air-Conditioning Category,set
+AC-WH-02,A1722,ArcticAir Industrial,98.0,93.0,10,246.87,Air-Conditioning Category,set
+AC-WH-02,A1723,ThermoCool India,95.0,97.0,7,260.71,Air-Conditioning Category,set
+AC-OC-01,A1811,ClimaCore Systems,97.0,97.0,6,288.3,Air-Conditioning Category,set
+AC-OC-01,A1812,BreezeTech Components,92.0,92.0,10,300.74,Air-Conditioning Category,set
+AC-OC-01,A1813,ArcticAir Industrial,88.0,95.0,8,314.13,Air-Conditioning Category,set
+AC-OC-02,A1821,ArcticAir Industrial,90.0,90.0,7,283.5,Air-Conditioning Category,set
+AC-OC-02,A1822,ThermoCool India,91.0,95.0,6,296.96,Air-Conditioning Category,set
+AC-OC-02,A1823,AeroParts Solutions,95.0,96.0,4,316.55,Air-Conditioning Category,set
+AC-FL-01,A1911,BreezeTech Components,91.0,91.0,7,191.47,Air-Conditioning Category,piece
+AC-FL-01,A1912,ArcticAir Industrial,95.0,94.0,5,204.0,Air-Conditioning Category,piece
+AC-FL-01,A1913,ThermoCool India,98.0,90.0,4,211.33,Air-Conditioning Category,piece
+AC-FL-02,A1921,ThermoCool India,88.0,95.0,9,189.77,Air-Conditioning Category,piece
+AC-FL-02,A1922,AeroParts Solutions,94.0,92.0,4,206.56,Air-Conditioning Category,piece
+AC-FL-02,A1923,ClimaCore Systems,91.0,96.0,10,211.0,Air-Conditioning Category,piece
+AC-GR-01,A2011,ArcticAir Industrial,89.0,93.0,10,464.68,Air-Conditioning Category,piece
+AC-GR-01,A2012,ThermoCool India,94.0,91.0,6,485.68,Air-Conditioning Category,piece
+AC-GR-01,A2013,AeroParts Solutions,88.0,92.0,8,499.16,Air-Conditioning Category,piece
+AC-GR-02,A2021,AeroParts Solutions,93.0,92.0,4,444.45,Air-Conditioning Category,piece
+AC-GR-02,A2022,ClimaCore Systems,95.0,90.0,8,498.7,Air-Conditioning Category,piece
+AC-GR-02,A2023,BreezeTech Components,97.0,96.0,5,497.46,Air-Conditioning Category,piece
+AC-LV-01,A2111,ThermoCool India,92.0,98.0,5,520.05,Air-Conditioning Category,piece
+AC-LV-01,A2112,AeroParts Solutions,88.0,91.0,5,565.94,Air-Conditioning Category,piece
+AC-LV-01,A2113,ClimaCore Systems,98.0,97.0,7,595.7,Air-Conditioning Category,piece
+AC-LV-02,A2121,ClimaCore Systems,97.0,96.0,4,523.78,Air-Conditioning Category,piece
+AC-LV-02,A2122,BreezeTech Components,96.0,91.0,10,567.14,Air-Conditioning Category,piece
+AC-LV-02,A2123,ArcticAir Industrial,94.0,90.0,4,599.36,Air-Conditioning Category,piece
+AC-FAN-01,A2211,AeroParts Solutions,93.0,94.0,6,351.93,Air-Conditioning Category,piece
+AC-FAN-01,A2212,ClimaCore Systems,89.0,97.0,6,364.03,Air-Conditioning Category,piece
+AC-FAN-01,A2213,BreezeTech Components,97.0,95.0,4,385.36,Air-Conditioning Category,piece
+AC-FAN-02,A2221,BreezeTech Components,90.0,90.0,6,360.64,Air-Conditioning Category,piece
+AC-FAN-02,A2222,ArcticAir Industrial,89.0,91.0,7,362.09,Air-Conditioning Category,piece
+AC-FAN-02,A2223,ThermoCool India,95.0,93.0,8,371.31,Air-Conditioning Category,piece
+AC-DN-01,A2311,ClimaCore Systems,88.0,93.0,10,405.06,Air-Conditioning Category,piece
+AC-DN-01,A2312,BreezeTech Components,94.0,95.0,4,445.38,Air-Conditioning Category,piece
+AC-DN-01,A2313,ArcticAir Industrial,90.0,96.0,5,453.2,Air-Conditioning Category,piece
+AC-DN-02,A2321,ArcticAir Industrial,91.0,96.0,8,408.87,Air-Conditioning Category,piece
+AC-DN-02,A2322,ThermoCool India,90.0,98.0,6,428.73,Air-Conditioning Category,piece
+AC-DN-02,A2323,AeroParts Solutions,98.0,90.0,7,458.7,Air-Conditioning Category,piece
+AC-DT-01,A2411,BreezeTech Components,90.0,91.0,4,85.58,Air-Conditioning Category,meter
+AC-DT-01,A2412,ArcticAir Industrial,90.0,90.0,7,88.46,Air-Conditioning Category,meter
+AC-DT-01,A2413,ThermoCool India,94.0,95.0,6,95.33,Air-Conditioning Category,meter
+AC-DT-02,A2421,ThermoCool India,96.0,96.0,8,85.01,Air-Conditioning Category,meter
+AC-DT-02,A2422,AeroParts Solutions,96.0,90.0,7,90.57,Air-Conditioning Category,meter
+AC-DT-02,A2423,ClimaCore Systems,89.0,93.0,8,94.36,Air-Conditioning Category,meter
+AC-IS-01,A2511,ArcticAir Industrial,98.0,96.0,10,280.52,Air-Conditioning Category,piece
+AC-IS-01,A2512,ThermoCool India,93.0,98.0,4,296.63,Air-Conditioning Category,piece
+AC-IS-01,A2513,AeroParts Solutions,93.0,90.0,6,304.19,Air-Conditioning Category,piece
+AC-IS-02,A2521,AeroParts Solutions,94.0,93.0,10,281.31,Air-Conditioning Category,piece
+AC-IS-02,A2522,ClimaCore Systems,92.0,98.0,8,297.67,Air-Conditioning Category,piece
+AC-IS-02,A2523,BreezeTech Components,88.0,94.0,7,303.98,Air-Conditioning Category,piece
+AC-PU-01,A2611,ThermoCool India,88.0,91.0,5,335.03,Air-Conditioning Category,kg
+AC-PU-01,A2612,AeroParts Solutions,96.0,98.0,7,349.57,Air-Conditioning Category,kg
+AC-PU-01,A2613,ClimaCore Systems,93.0,90.0,8,361.73,Air-Conditioning Category,kg
+AC-PU-02,A2621,ClimaCore Systems,89.0,93.0,5,339.99,Air-Conditioning Category,kg
+AC-PU-02,A2622,BreezeTech Components,97.0,95.0,6,358.6,Air-Conditioning Category,kg
+AC-PU-02,A2623,ArcticAir Industrial,91.0,97.0,8,368.12,Air-Conditioning Category,kg
+AC-CA-01,A2711,AeroParts Solutions,96.0,98.0,9,962.14,Air-Conditioning Category,piece
+AC-CA-01,A2712,ClimaCore Systems,94.0,94.0,8,1060.68,Air-Conditioning Category,piece
+AC-CA-01,A2713,BreezeTech Components,91.0,97.0,10,1092.66,Air-Conditioning Category,piece
+AC-CA-02,A2721,BreezeTech Components,92.0,97.0,9,939.94,Air-Conditioning Category,piece
+AC-CA-02,A2722,ArcticAir Industrial,96.0,90.0,10,1038.67,Air-Conditioning Category,piece
+AC-CA-02,A2723,ThermoCool India,91.0,90.0,4,1061.31,Air-Conditioning Category,piece
+AC-BR-01,A2811,ClimaCore Systems,95.0,93.0,10,216.66,Air-Conditioning Category,set
+AC-BR-01,A2812,BreezeTech Components,96.0,98.0,8,234.42,Air-Conditioning Category,set
+AC-BR-01,A2813,ArcticAir Industrial,98.0,97.0,10,244.51,Air-Conditioning Category,set
+AC-BR-02,A2821,ArcticAir Industrial,97.0,95.0,6,215.91,Air-Conditioning Category,set
+AC-BR-02,A2822,ThermoCool India,91.0,98.0,7,232.09,Air-Conditioning Category,set
+AC-BR-02,A2823,AeroParts Solutions,92.0,97.0,10,244.46,Air-Conditioning Category,set
+AC-VB-01,A2911,BreezeTech Components,89.0,92.0,9,173.3,Air-Conditioning Category,set
+AC-VB-01,A2912,ArcticAir Industrial,96.0,97.0,4,182.9,Air-Conditioning Category,set
+AC-VB-01,A2913,ThermoCool India,95.0,96.0,8,205.25,Air-Conditioning Category,set
+AC-VB-02,A2921,ThermoCool India,95.0,98.0,9,179.23,Air-Conditioning Category,set
+AC-VB-02,A2922,AeroParts Solutions,92.0,95.0,9,188.27,Air-Conditioning Category,set
+AC-VB-02,A2923,ClimaCore Systems,92.0,95.0,10,200.05,Air-Conditioning Category,set
+AC-CO-01,A3011,ArcticAir Industrial,96.0,93.0,9,749.86,Air-Conditioning Category,piece
+AC-CO-01,A3012,ThermoCool India,98.0,91.0,5,820.34,Air-Conditioning Category,piece
+AC-CO-01,A3013,AeroParts Solutions,95.0,98.0,7,852.9,Air-Conditioning Category,piece
+AC-CO-02,A3021,AeroParts Solutions,93.0,93.0,8,767.89,Air-Conditioning Category,piece
+AC-CO-02,A3022,ClimaCore Systems,91.0,98.0,5,780.65,Air-Conditioning Category,piece
+AC-CO-02,A3023,BreezeTech Components,97.0,98.0,8,856.07,Air-Conditioning Category,piece
+AC-PN-01,A3111,ThermoCool India,90.0,92.0,7,672.12,Air-Conditioning Category,piece
+AC-PN-01,A3112,AeroParts Solutions,88.0,95.0,4,736.51,Air-Conditioning Category,piece
+AC-PN-01,A3113,ClimaCore Systems,88.0,94.0,8,752.0,Air-Conditioning Category,piece
+AC-PN-02,A3121,ClimaCore Systems,89.0,98.0,10,672.27,Air-Conditioning Category,piece
+AC-PN-02,A3122,BreezeTech Components,98.0,92.0,5,713.25,Air-Conditioning Category,piece
+AC-PN-02,A3123,ArcticAir Industrial,88.0,97.0,7,769.49,Air-Conditioning Category,piece
+AC-SW-01,A3211,AeroParts Solutions,89.0,95.0,6,287.21,Air-Conditioning Category,piece
+AC-SW-01,A3212,ClimaCore Systems,88.0,94.0,6,304.57,Air-Conditioning Category,piece
+AC-SW-01,A3213,BreezeTech Components,96.0,91.0,8,320.29,Air-Conditioning Category,piece
+AC-SW-02,A3221,BreezeTech Components,90.0,90.0,6,286.05,Air-Conditioning Category,piece
+AC-SW-02,A3222,ArcticAir Industrial,93.0,95.0,9,298.14,Air-Conditioning Category,piece
+AC-SW-02,A3223,ThermoCool India,98.0,93.0,8,321.6,Air-Conditioning Category,piece
+AC-RC-01,A3311,ClimaCore Systems,88.0,95.0,5,512.74,Air-Conditioning Category,piece
+AC-RC-01,A3312,BreezeTech Components,91.0,93.0,4,560.57,Air-Conditioning Category,piece
+AC-RC-01,A3313,ArcticAir Industrial,89.0,96.0,6,583.76,Air-Conditioning Category,piece
+AC-RC-02,A3321,ArcticAir Industrial,96.0,95.0,10,511.89,Air-Conditioning Category,piece
+AC-RC-02,A3322,ThermoCool India,98.0,91.0,5,553.06,Air-Conditioning Category,piece
+AC-RC-02,A3323,AeroParts Solutions,98.0,96.0,6,558.03,Air-Conditioning Category,piece
+WM-DR-01,W0111,DrumWorks India,95.0,97.0,8,4079.72,Washing Machine Category,piece
+WM-DR-01,W0112,AquaMotion Systems,97.0,92.0,6,4501.36,Washing Machine Category,piece
+WM-DR-01,W0113,WashPro Components,97.0,96.0,5,4506.52,Washing Machine Category,piece
+WM-DR-02,W0121,WashPro Components,93.0,95.0,8,4290.23,Washing Machine Category,piece
+WM-DR-02,W0122,SpinTech Industries,94.0,96.0,10,4423.4,Washing Machine Category,piece
+WM-DR-02,W0123,HomeAppliance Parts,98.0,95.0,10,4593.94,Washing Machine Category,piece
+WM-TB-01,W0211,AquaMotion Systems,95.0,90.0,5,3039.44,Washing Machine Category,piece
+WM-TB-01,W0212,WashPro Components,98.0,95.0,4,3305.46,Washing Machine Category,piece
+WM-TB-01,W0213,SpinTech Industries,90.0,92.0,6,3425.5,Washing Machine Category,piece
+WM-TB-02,W0221,SpinTech Industries,91.0,98.0,5,3161.68,Washing Machine Category,piece
+WM-TB-02,W0222,HomeAppliance Parts,95.0,95.0,7,3347.22,Washing Machine Category,piece
+WM-TB-02,W0223,DrumWorks India,88.0,96.0,6,3440.36,Washing Machine Category,piece
+WM-MT-01,W0311,WashPro Components,90.0,90.0,6,3646.33,Washing Machine Category,piece
+WM-MT-01,W0312,SpinTech Industries,98.0,98.0,7,3885.33,Washing Machine Category,piece
+WM-MT-01,W0313,HomeAppliance Parts,88.0,90.0,5,3961.98,Washing Machine Category,piece
+WM-MT-02,W0321,HomeAppliance Parts,90.0,96.0,9,3592.37,Washing Machine Category,piece
+WM-MT-02,W0322,DrumWorks India,93.0,98.0,8,3949.25,Washing Machine Category,piece
+WM-MT-02,W0323,AquaMotion Systems,89.0,90.0,7,4057.71,Washing Machine Category,piece
+WM-BT-01,W0411,SpinTech Industries,89.0,92.0,10,235.03,Washing Machine Category,piece
+WM-BT-01,W0412,HomeAppliance Parts,95.0,90.0,4,255.0,Washing Machine Category,piece
+WM-BT-01,W0413,DrumWorks India,97.0,92.0,9,272.53,Washing Machine Category,piece
+WM-BT-02,W0421,DrumWorks India,98.0,91.0,4,243.67,Washing Machine Category,piece
+WM-BT-02,W0422,AquaMotion Systems,95.0,90.0,6,250.45,Washing Machine Category,piece
+WM-BT-02,W0423,WashPro Components,95.0,97.0,5,267.36,Washing Machine Category,piece
+WM-BR-01,W0511,HomeAppliance Parts,95.0,94.0,4,526.4,Washing Machine Category,set
+WM-BR-01,W0512,DrumWorks India,98.0,91.0,9,563.01,Washing Machine Category,set
+WM-BR-01,W0513,AquaMotion Systems,93.0,97.0,5,581.36,Washing Machine Category,set
+WM-BR-02,W0521,AquaMotion Systems,88.0,97.0,9,516.47,Washing Machine Category,set
+WM-BR-02,W0522,WashPro Components,89.0,93.0,8,556.55,Washing Machine Category,set
+WM-BR-02,W0523,SpinTech Industries,88.0,98.0,4,580.47,Washing Machine Category,set
+WM-PS-01,W0611,DrumWorks India,89.0,91.0,4,308.52,Washing Machine Category,piece
+WM-PS-01,W0612,AquaMotion Systems,95.0,90.0,8,323.35,Washing Machine Category,piece
+WM-PS-01,W0613,WashPro Components,95.0,91.0,9,341.02,Washing Machine Category,piece
+WM-PS-02,W0621,WashPro Components,91.0,94.0,9,306.56,Washing Machine Category,piece
+WM-PS-02,W0622,SpinTech Industries,89.0,92.0,9,325.69,Washing Machine Category,piece
+WM-PS-02,W0623,HomeAppliance Parts,90.0,94.0,10,340.84,Washing Machine Category,piece
+WM-IV-01,W0711,AquaMotion Systems,94.0,94.0,7,253.24,Washing Machine Category,piece
+WM-IV-01,W0712,WashPro Components,94.0,98.0,4,281.18,Washing Machine Category,piece
+WM-IV-01,W0713,SpinTech Industries,94.0,94.0,4,289.77,Washing Machine Category,piece
+WM-IV-02,W0721,SpinTech Industries,96.0,94.0,10,253.46,Washing Machine Category,piece
+WM-IV-02,W0722,HomeAppliance Parts,94.0,96.0,8,280.85,Washing Machine Category,piece
+WM-IV-02,W0723,DrumWorks India,97.0,90.0,10,287.53,Washing Machine Category,piece
+WM-DP-01,W0811,WashPro Components,91.0,91.0,10,725.12,Washing Machine Category,piece
+WM-DP-01,W0812,SpinTech Industries,91.0,96.0,4,759.41,Washing Machine Category,piece
+WM-DP-01,W0813,HomeAppliance Parts,91.0,97.0,5,794.65,Washing Machine Category,piece
+WM-DP-02,W0821,HomeAppliance Parts,93.0,97.0,10,718.28,Washing Machine Category,piece
+WM-DP-02,W0822,DrumWorks India,88.0,93.0,4,766.87,Washing Machine Category,piece
+WM-DP-02,W0823,AquaMotion Systems,96.0,96.0,10,818.28,Washing Machine Category,piece
+WM-DS-01,W0911,SpinTech Industries,89.0,94.0,4,163.35,Washing Machine Category,piece
+WM-DS-01,W0912,HomeAppliance Parts,89.0,98.0,10,168.89,Washing Machine Category,piece
+WM-DS-01,W0913,DrumWorks India,95.0,94.0,9,187.68,Washing Machine Category,piece
+WM-DS-02,W0921,DrumWorks India,93.0,91.0,6,161.87,Washing Machine Category,piece
+WM-DS-02,W0922,AquaMotion Systems,88.0,95.0,6,173.34,Washing Machine Category,piece
+WM-DS-02,W0923,WashPro Components,93.0,91.0,10,179.44,Washing Machine Category,piece
+WM-FL-01,W1011,HomeAppliance Parts,94.0,90.0,6,128.87,Washing Machine Category,piece
+WM-FL-01,W1012,DrumWorks India,91.0,95.0,9,136.93,Washing Machine Category,piece
+WM-FL-01,W1013,AquaMotion Systems,95.0,97.0,8,146.8,Washing Machine Category,piece
+WM-FL-02,W1021,AquaMotion Systems,90.0,90.0,8,133.57,Washing Machine Category,piece
+WM-FL-02,W1022,WashPro Components,89.0,91.0,6,137.57,Washing Machine Category,piece
+WM-FL-02,W1023,SpinTech Industries,89.0,94.0,5,141.75,Washing Machine Category,piece
+WM-LK-01,W1111,DrumWorks India,91.0,92.0,8,467.78,Washing Machine Category,piece
+WM-LK-01,W1112,AquaMotion Systems,89.0,98.0,5,517.7,Washing Machine Category,piece
+WM-LK-01,W1113,WashPro Components,91.0,92.0,7,528.14,Washing Machine Category,piece
+WM-LK-02,W1121,WashPro Components,91.0,98.0,4,481.49,Washing Machine Category,piece
+WM-LK-02,W1122,SpinTech Industries,97.0,91.0,10,514.25,Washing Machine Category,piece
+WM-LK-02,W1123,HomeAppliance Parts,96.0,96.0,4,530.71,Washing Machine Category,piece
+WM-DA-01,W1211,AquaMotion Systems,88.0,92.0,6,1741.37,Washing Machine Category,piece
+WM-DA-01,W1212,WashPro Components,98.0,98.0,9,1841.53,Washing Machine Category,piece
+WM-DA-01,W1213,SpinTech Industries,88.0,92.0,5,1997.06,Washing Machine Category,piece
+WM-DA-02,W1221,SpinTech Industries,89.0,96.0,4,1770.14,Washing Machine Category,piece
+WM-DA-02,W1222,HomeAppliance Parts,97.0,90.0,4,1842.51,Washing Machine Category,piece
+WM-DA-02,W1223,DrumWorks India,98.0,93.0,6,1936.57,Washing Machine Category,piece
+WM-GS-01,W1311,WashPro Components,93.0,92.0,9,389.46,Washing Machine Category,piece
+WM-GS-01,W1312,SpinTech Industries,89.0,93.0,7,397.03,Washing Machine Category,piece
+WM-GS-01,W1313,HomeAppliance Parts,98.0,96.0,4,420.58,Washing Machine Category,piece
+WM-GS-02,W1321,HomeAppliance Parts,93.0,98.0,5,386.56,Washing Machine Category,piece
+WM-GS-02,W1322,DrumWorks India,97.0,97.0,7,412.07,Washing Machine Category,piece
+WM-GS-02,W1323,AquaMotion Systems,89.0,95.0,6,435.98,Washing Machine Category,piece
+WM-HG-01,W1411,SpinTech Industries,90.0,90.0,9,210.45,Washing Machine Category,set
+WM-HG-01,W1412,HomeAppliance Parts,92.0,96.0,5,218.7,Washing Machine Category,set
+WM-HG-01,W1413,DrumWorks India,96.0,91.0,5,233.44,Washing Machine Category,set
+WM-HG-02,W1421,DrumWorks India,88.0,97.0,6,200.65,Washing Machine Category,set
+WM-HG-02,W1422,AquaMotion Systems,97.0,90.0,10,225.88,Washing Machine Category,set
+WM-HG-02,W1423,WashPro Components,88.0,90.0,5,237.38,Washing Machine Category,set
+WM-PC-01,W1511,HomeAppliance Parts,95.0,91.0,8,2455.79,Washing Machine Category,piece
+WM-PC-01,W1512,DrumWorks India,97.0,90.0,9,2567.9,Washing Machine Category,piece
+WM-PC-01,W1513,AquaMotion Systems,98.0,92.0,6,2713.47,Washing Machine Category,piece
+WM-PC-02,W1521,AquaMotion Systems,90.0,90.0,4,2461.2,Washing Machine Category,piece
+WM-PC-02,W1522,WashPro Components,98.0,95.0,10,2672.12,Washing Machine Category,piece
+WM-PC-02,W1523,SpinTech Industries,88.0,94.0,10,2751.45,Washing Machine Category,piece
+WM-UI-01,W1611,DrumWorks India,89.0,93.0,4,1321.57,Washing Machine Category,piece
+WM-UI-01,W1612,AquaMotion Systems,97.0,93.0,9,1463.04,Washing Machine Category,piece
+WM-UI-01,W1613,WashPro Components,88.0,91.0,10,1526.62,Washing Machine Category,piece
+WM-UI-02,W1621,WashPro Components,88.0,93.0,10,1336.65,Washing Machine Category,piece
+WM-UI-02,W1622,SpinTech Industries,91.0,95.0,7,1385.99,Washing Machine Category,piece
+WM-UI-02,W1623,HomeAppliance Parts,89.0,95.0,10,1486.55,Washing Machine Category,piece
+WM-WH-01,W1711,AquaMotion Systems,94.0,98.0,7,360.63,Washing Machine Category,set
+WM-WH-01,W1712,WashPro Components,88.0,97.0,9,386.1,Washing Machine Category,set
+WM-WH-01,W1713,SpinTech Industries,91.0,96.0,6,396.65,Washing Machine Category,set
+WM-WH-02,W1721,SpinTech Industries,88.0,95.0,10,365.02,Washing Machine Category,set
+WM-WH-02,W1722,HomeAppliance Parts,93.0,93.0,8,394.69,Washing Machine Category,set
+WM-WH-02,W1723,DrumWorks India,89.0,92.0,6,402.65,Washing Machine Category,set
+WM-NT-01,W1811,WashPro Components,92.0,96.0,7,151.32,Washing Machine Category,piece
+WM-NT-01,W1812,SpinTech Industries,92.0,96.0,7,159.7,Washing Machine Category,piece
+WM-NT-01,W1813,HomeAppliance Parts,91.0,95.0,7,171.28,Washing Machine Category,piece
+WM-NT-02,W1821,HomeAppliance Parts,96.0,95.0,9,157.35,Washing Machine Category,piece
+WM-NT-02,W1822,DrumWorks India,90.0,93.0,8,165.86,Washing Machine Category,piece
+WM-NT-02,W1823,AquaMotion Systems,98.0,94.0,8,172.67,Washing Machine Category,piece
+WM-TR-01,W1911,SpinTech Industries,94.0,96.0,9,236.94,Washing Machine Category,piece
+WM-TR-01,W1912,HomeAppliance Parts,96.0,97.0,4,258.52,Washing Machine Category,piece
+WM-TR-01,W1913,DrumWorks India,90.0,94.0,6,260.62,Washing Machine Category,piece
+WM-TR-02,W1921,DrumWorks India,90.0,93.0,7,240.42,Washing Machine Category,piece
+WM-TR-02,W1922,AquaMotion Systems,97.0,96.0,9,254.96,Washing Machine Category,piece
+WM-TR-02,W1923,WashPro Components,92.0,97.0,7,264.38,Washing Machine Category,piece
+WM-CAP-01,W2011,HomeAppliance Parts,94.0,90.0,9,175.05,Washing Machine Category,piece
+WM-CAP-01,W2012,DrumWorks India,91.0,95.0,5,187.87,Washing Machine Category,piece
+WM-CAP-01,W2013,AquaMotion Systems,95.0,91.0,4,195.71,Washing Machine Category,piece
+WM-CAP-02,W2021,AquaMotion Systems,97.0,91.0,4,173.79,Washing Machine Category,piece
+WM-CAP-02,W2022,WashPro Components,94.0,92.0,5,186.93,Washing Machine Category,piece
+WM-CAP-02,W2023,SpinTech Industries,91.0,97.0,10,197.21,Washing Machine Category,piece
+WM-SP-01,W2111,DrumWorks India,95.0,96.0,6,287.84,Washing Machine Category,set
+WM-SP-01,W2112,AquaMotion Systems,98.0,98.0,10,302.76,Washing Machine Category,set
+WM-SP-01,W2113,WashPro Components,95.0,96.0,6,320.38,Washing Machine Category,set
+WM-SP-02,W2121,WashPro Components,98.0,96.0,8,289.01,Washing Machine Category,set
+WM-SP-02,W2122,SpinTech Industries,96.0,91.0,5,315.13,Washing Machine Category,set
+WM-SP-02,W2123,HomeAppliance Parts,97.0,98.0,5,323.24,Washing Machine Category,set
+WM-SD-01,W2211,AquaMotion Systems,96.0,90.0,9,620.93,Washing Machine Category,set
+WM-SD-01,W2212,WashPro Components,88.0,94.0,5,671.83,Washing Machine Category,set
+WM-SD-01,W2213,SpinTech Industries,95.0,92.0,8,691.21,Washing Machine Category,set
+WM-SD-02,W2221,SpinTech Industries,97.0,94.0,6,614.88,Washing Machine Category,set
+WM-SD-02,W2222,HomeAppliance Parts,92.0,96.0,6,647.11,Washing Machine Category,set
+WM-SD-02,W2223,DrumWorks India,90.0,94.0,7,680.65,Washing Machine Category,set
+WM-BR2-01,W2311,WashPro Components,96.0,97.0,10,534.23,Washing Machine Category,piece
+WM-BR2-01,W2312,SpinTech Industries,98.0,93.0,9,560.74,Washing Machine Category,piece
+WM-BR2-01,W2313,HomeAppliance Parts,98.0,90.0,10,607.09,Washing Machine Category,piece
+WM-BR2-02,W2321,HomeAppliance Parts,90.0,93.0,7,559.15,Washing Machine Category,piece
+WM-BR2-02,W2322,DrumWorks India,91.0,96.0,6,582.66,Washing Machine Category,piece
+WM-BR2-02,W2323,AquaMotion Systems,93.0,95.0,8,605.47,Washing Machine Category,piece
+WM-CH-01,W2411,SpinTech Industries,88.0,94.0,4,1797.32,Washing Machine Category,piece
+WM-CH-01,W2412,HomeAppliance Parts,94.0,92.0,10,1948.9,Washing Machine Category,piece
+WM-CH-01,W2413,DrumWorks India,95.0,90.0,7,2098.47,Washing Machine Category,piece
+WM-CH-02,W2421,DrumWorks India,97.0,97.0,6,1820.48,Washing Machine Category,piece
+WM-CH-02,W2422,AquaMotion Systems,88.0,95.0,5,1903.09,Washing Machine Category,piece
+WM-CH-02,W2423,WashPro Components,95.0,97.0,4,2025.12,Washing Machine Category,piece
+WM-TP-01,W2511,HomeAppliance Parts,96.0,91.0,9,808.15,Washing Machine Category,piece
+WM-TP-01,W2512,DrumWorks India,93.0,92.0,6,848.9,Washing Machine Category,piece
+WM-TP-01,W2513,AquaMotion Systems,97.0,95.0,4,895.14,Washing Machine Category,piece
+WM-TP-02,W2521,AquaMotion Systems,89.0,91.0,7,801.84,Washing Machine Category,piece
+WM-TP-02,W2522,WashPro Components,93.0,94.0,6,803.9,Washing Machine Category,piece
+WM-TP-02,W2523,SpinTech Industries,90.0,91.0,6,869.87,Washing Machine Category,piece
+WM-FP-01,W2611,DrumWorks India,93.0,92.0,4,689.21,Washing Machine Category,piece
+WM-FP-01,W2612,AquaMotion Systems,88.0,98.0,5,751.29,Washing Machine Category,piece
+WM-FP-01,W2613,WashPro Components,88.0,95.0,6,768.96,Washing Machine Category,piece
+WM-FP-02,W2621,WashPro Components,95.0,97.0,6,684.94,Washing Machine Category,piece
+WM-FP-02,W2622,SpinTech Industries,97.0,95.0,4,733.81,Washing Machine Category,piece
+WM-FP-02,W2623,HomeAppliance Parts,95.0,95.0,6,767.99,Washing Machine Category,piece
+WM-PL-01,W2711,AquaMotion Systems,95.0,93.0,4,323.15,Washing Machine Category,piece
+WM-PL-01,W2712,WashPro Components,97.0,90.0,7,350.75,Washing Machine Category,piece
+WM-PL-01,W2713,SpinTech Industries,95.0,94.0,5,364.5,Washing Machine Category,piece
+WM-PL-02,W2721,SpinTech Industries,89.0,96.0,5,335.58,Washing Machine Category,piece
+WM-PL-02,W2722,HomeAppliance Parts,98.0,98.0,7,343.34,Washing Machine Category,piece
+WM-PL-02,W2723,DrumWorks India,97.0,95.0,10,363.56,Washing Machine Category,piece
+WM-KN-01,W2811,WashPro Components,92.0,93.0,4,106.64,Washing Machine Category,piece
+WM-KN-01,W2812,SpinTech Industries,94.0,90.0,4,121.88,Washing Machine Category,piece
+WM-KN-01,W2813,HomeAppliance Parts,97.0,93.0,9,121.3,Washing Machine Category,piece
+WM-KN-02,W2821,HomeAppliance Parts,92.0,90.0,4,109.44,Washing Machine Category,piece
+WM-KN-02,W2822,DrumWorks India,91.0,91.0,6,117.72,Washing Machine Category,piece
+WM-KN-02,W2823,AquaMotion Systems,93.0,93.0,4,121.22,Washing Machine Category,piece
+WM-LED-01,W2911,SpinTech Industries,96.0,95.0,7,143.15,Washing Machine Category,piece
+WM-LED-01,W2912,HomeAppliance Parts,93.0,96.0,6,152.56,Washing Machine Category,piece
+WM-LED-01,W2913,DrumWorks India,91.0,97.0,4,160.95,Washing Machine Category,piece
+WM-LED-02,W2921,DrumWorks India,96.0,96.0,7,148.07,Washing Machine Category,piece
+WM-LED-02,W2922,AquaMotion Systems,93.0,94.0,5,158.32,Washing Machine Category,piece
+WM-LED-02,W2923,WashPro Components,96.0,90.0,9,164.92,Washing Machine Category,piece
+WM-BZ-01,W3011,HomeAppliance Parts,96.0,95.0,8,97.34,Washing Machine Category,piece
+WM-BZ-01,W3012,DrumWorks India,93.0,94.0,9,102.69,Washing Machine Category,piece
+WM-BZ-01,W3013,AquaMotion Systems,95.0,97.0,6,106.03,Washing Machine Category,piece
+WM-BZ-02,W3021,AquaMotion Systems,91.0,95.0,5,93.44,Washing Machine Category,piece
+WM-BZ-02,W3022,WashPro Components,93.0,90.0,6,100.34,Washing Machine Category,piece
+WM-BZ-02,W3023,SpinTech Industries,90.0,90.0,10,104.79,Washing Machine Category,piece
+WM-FL2-01,W3111,DrumWorks India,96.0,98.0,5,128.78,Washing Machine Category,set
+WM-FL2-01,W3112,AquaMotion Systems,92.0,96.0,10,135.43,Washing Machine Category,set
+WM-FL2-01,W3113,WashPro Components,97.0,98.0,9,141.76,Washing Machine Category,set
+WM-FL2-02,W3121,WashPro Components,88.0,98.0,9,126.38,Washing Machine Category,set
+WM-FL2-02,W3122,SpinTech Industries,97.0,91.0,10,133.48,Washing Machine Category,set
+WM-FL2-02,W3123,HomeAppliance Parts,88.0,95.0,9,141.31,Washing Machine Category,set
+WM-EM-01,W3211,AquaMotion Systems,93.0,94.0,8,355.99,Washing Machine Category,piece
+WM-EM-01,W3212,WashPro Components,97.0,92.0,5,385.25,Washing Machine Category,piece
+WM-EM-01,W3213,SpinTech Industries,94.0,98.0,4,410.06,Washing Machine Category,piece
+WM-EM-02,W3221,SpinTech Industries,90.0,98.0,8,347.29,Washing Machine Category,piece
+WM-EM-02,W3222,HomeAppliance Parts,91.0,90.0,10,379.61,Washing Machine Category,piece
+WM-EM-02,W3223,DrumWorks India,94.0,96.0,5,394.9,Washing Machine Category,piece
+WM-SL-01,W3311,WashPro Components,95.0,97.0,8,171.57,Washing Machine Category,piece
+WM-SL-01,W3312,SpinTech Industries,90.0,94.0,10,175.39,Washing Machine Category,piece
+WM-SL-01,W3313,HomeAppliance Parts,88.0,98.0,6,187.75,Washing Machine Category,piece
+WM-SL-02,W3321,HomeAppliance Parts,88.0,97.0,10,167.49,Washing Machine Category,piece
+WM-SL-02,W3322,DrumWorks India,93.0,94.0,7,180.34,Washing Machine Category,piece
+WM-SL-02,W3323,AquaMotion Systems,91.0,97.0,7,185.71,Washing Machine Category,piece
